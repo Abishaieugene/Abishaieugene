@@ -98,8 +98,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+
 
 ###
 
@@ -169,9 +168,6 @@ Here are some ideas to get you started:
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/Abishaieugene/Abishaieugene/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="left">
