@@ -61,7 +61,6 @@ Through diligent effort and dedication, I have successfully completed a challeng
 
 1. **To-Do List:**  
    "I've developed an efficient to-do list for tracking daily tasks, making it a valuable resource for everyone."
-   ![To-Do List](https://raw.githubusercontent.com/Abishaieugene/Abishaieugene/main/images/mytodoscreenshot.png)
    ![mytodoscreenshot](https://github.com/user-attachments/assets/05e03c7b-efc0-4eb9-a842-0dd9519ae451)
 
 3. **Responsive Music App UI/UX:**  
