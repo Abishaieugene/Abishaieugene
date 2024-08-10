@@ -77,7 +77,7 @@ Through diligent effort and dedication, I have successfully completed a challeng
 
 5. **PAN Card Project:**  
    "A PAN card project that generates a PAN card number for users, providing a seamless user experience."
-   ![PAN Card Project](https://raw.githubusercontent.com/Abishaieugene/Abishaieugene/main/images/pancard_work.png)
+   ![pancard_work](https://github.com/user-attachments/assets/12215dd1-a90b-488e-ae1a-f6fa8041b1cb)
 <h2 align="left">Hi! My name is Abishai Eugene ,Here are my github profile info.
 Let's connect with me!
 Together we will dive and grab new technologies. </h2>
