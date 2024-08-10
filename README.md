@@ -14,6 +14,7 @@ I am a **Java Full Stack Developer**, **Web Designer**, and **UI/UX Designer** w
 
 ---
 
+
 ## 🛠️ My Skills
 
 ### Languages & Technologies:
@@ -33,6 +34,7 @@ I am a **Java Full Stack Developer**, **Web Designer**, and **UI/UX Designer** w
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
+
 
 ## 📚 My Projects
 
@@ -78,7 +80,7 @@ Through diligent effort and dedication, I have successfully completed a challeng
 5. **PAN Card Project:**  
    "A PAN card project that generates a PAN card number for users, providing a seamless user experience."
    ![pancard_work](https://github.com/user-attachments/assets/12215dd1-a90b-488e-ae1a-f6fa8041b1cb)
-<h2 align="left">Hi! My name is Abishai Eugene ,Here are my github profile info.
+<h2 align="left">Here are my github profile info.
 Let's connect with me!
 Together we will dive and grab new technologies. </h2>
 
