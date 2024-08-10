@@ -39,7 +39,7 @@ I am a **Java Full Stack Developer**, **Web Designer**, and **UI/UX Designer** w
 ### Patent
 **Title:** "Developed an efficient ration application aimed at reducing queues by utilizing innovative technology, thereby minimizing wait times."
 
-![Patent](https://raw.githubusercontent.com/Abishaieugene/Abishaieugene/main/images/Patent_page-0001.jpg)
+![Patent_page-0001 (1)](https://github.com/user-attachments/assets/43aae1e1-b677-47de-b89d-9cf5947268b8)
 
 ### Waste Management
 **Project Description:** "Executed an impactful project aimed at managing domestic waste in our country. Implemented innovative ideas and novel approaches under the theme of Clean and Green technology, addressing a critical need for our nation."
