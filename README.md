@@ -1,6 +1,6 @@
 
-## Hello Welcome my profile viewers! 👋
-# Hi there, I'm Abishai Eugene! 👋
+## Hello! my profile viewers! 👋
+# Hi, I'm Abishai Eugene! 👋
 
 ### A Passionate Full Stack Developer | Java Developer | Web Designer | UI/UX Designer
 
