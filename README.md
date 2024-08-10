@@ -44,7 +44,7 @@ I am a **Java Full Stack Developer**, **Web Designer**, and **UI/UX Designer** w
 ### Waste Management
 **Project Description:** "Executed an impactful project aimed at managing domestic waste in our country. Implemented innovative ideas and novel approaches under the theme of Clean and Green technology, addressing a critical need for our nation."
 
-![Waste Management](https://raw.githubusercontent.com/Abishaieugene/Abishaieugene/main/images/figma-waste-management.png)
+![figma waste management](https://github.com/user-attachments/assets/bbf3bef3-07f9-4abb-872c-28cba4a51f1a)
 
 ---
 
@@ -53,7 +53,7 @@ I am a **Java Full Stack Developer**, **Web Designer**, and **UI/UX Designer** w
 **Web Development Internship:**  
 Through diligent effort and dedication, I have successfully completed a challenging web development internship, emerging with enhanced skills and practical knowledge, ready to tackle complex projects with confidence and proficiency.
 
-![Internship Certificate](https://raw.githubusercontent.com/Abishaieugene/Abishaieugene/main/images/E.ABISHAI-EUGENE-Completion-Certificate.png)
+![E ABISHAI EUGENE  Completion   Certificate  (1)](https://github.com/user-attachments/assets/560a23f2-79e1-4bc0-b942-35c5843d5475)
 
 ---
 
@@ -63,19 +63,19 @@ Through diligent effort and dedication, I have successfully completed a challeng
    "I've developed an efficient to-do list for tracking daily tasks, making it a valuable resource for everyone."
    ![mytodoscreenshot](https://github.com/user-attachments/assets/05e03c7b-efc0-4eb9-a842-0dd9519ae451)
 
-3. **Responsive Music App UI/UX:**  
+2. **Responsive Music App UI/UX:**  
    "I have created a responsive music app UI and UX design that is useful for office presentations, client calls, and individual planning."
-   ![Music App](https://raw.githubusercontent.com/Abishaieugene/Abishaieugene/main/images/abimusicapp.png)
+   ![abimusicapp](https://github.com/user-attachments/assets/904a2bd3-e369-4e8b-84c1-9998abe1448f)
 
-4. **Responsive Calculator:**  
+3. **Responsive Calculator:**  
    "A responsive calculator using HTML, CSS, and JavaScript frameworks, tailored for business purposes."
-   ![Calculator](https://raw.githubusercontent.com/Abishaieugene/Abishaieugene/main/images/abicalc.png)
+   ![abicalc](https://github.com/user-attachments/assets/7af54832-af29-4e60-ac68-6c0b2d18152a)
 
-5. **Interactive Button:**  
+4. **Interactive Button:**  
    "An interactive button that dynamically moves in random directions when the user attempts to click on it."
-   ![Naughty Button](https://raw.githubusercontent.com/Abishaieugene/Abishaieugene/main/images/naughtybutton.png)
+   ![naughtybutton](https://github.com/user-attachments/assets/18c1f3a1-d4cb-455f-90d2-56d5fedd8e19)
 
-6. **PAN Card Project:**  
+5. **PAN Card Project:**  
    "A PAN card project that generates a PAN card number for users, providing a seamless user experience."
    ![PAN Card Project](https://raw.githubusercontent.com/Abishaieugene/Abishaieugene/main/images/pancard_work.png)
 <h2 align="left">Hi! My name is Abishai Eugene ,Here are my github profile info.
@@ -119,11 +119,3 @@ Together we will dive and grab new technologies. </h2>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
 </div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Abishaieugene/count.svg?"  />
-</div>
-
-###
