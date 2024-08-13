@@ -93,8 +93,6 @@ Together we will dive and grab new technologies. </h2>
 
 ###
 
-<img align="right" height="150" src="https://dribbble.com/shots/11897843-Spring-io-logo-animation/attachments/3523652?mode=media"  />
-
 ###
 
 <div align="left">
