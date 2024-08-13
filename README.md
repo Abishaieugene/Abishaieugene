@@ -115,6 +115,8 @@ Together we will dive and grab new technologies. </h2>
 
 ###
 
+![1_MmlUmaa0oRxkQXzrKghdMQ](https://github.com/user-attachments/assets/9aba782a-1fcf-4ca5-b740-225a074b1f36)
+
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
