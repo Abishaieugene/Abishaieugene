@@ -115,6 +115,7 @@ Together we will dive and grab new technologies. </h2>
 
 ###
 
+Recent technology learnt:
 ![1_MmlUmaa0oRxkQXzrKghdMQ](https://github.com/user-attachments/assets/9aba782a-1fcf-4ca5-b740-225a074b1f36)
 
 <div align="left">
