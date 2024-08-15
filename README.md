@@ -1,4 +1,3 @@
-
 ## Hello! my profile viewers! 👋
 # Hi, I'm Abishai Eugene! 👋
 
@@ -13,7 +12,6 @@
 I am a **Java Full Stack Developer**, **Web Designer**, and **UI/UX Designer** with a strong foundation in web development, cloud services, and design. My expertise lies in creating dynamic, responsive webpages and user interfaces that provide an excellent user experience.
 
 ---
-
 
 ## 🛠️ My Skills
 
@@ -34,7 +32,6 @@ I am a **Java Full Stack Developer**, **Web Designer**, and **UI/UX Designer** w
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-
 
 ## 📚 My Projects
 
@@ -91,9 +88,17 @@ Together we will dive and grab new technologies. </h2>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abishaieugene&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+### 
 
-###
+## 🏆 LeetCode Profile
+
+<div align="center">
+  <a href="https://leetcode.com/abiabishai2407/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=LeetCode&message=abiabishai2407&color=FFA116&style=for-the-badge&logo=leetcode&logoColor=white&link=https://leetcode.com/abiabishai2407/" alt="LeetCode Profile" />
+  </a>
+</div>
+
+### 
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
@@ -107,30 +112,8 @@ Together we will dive and grab new technologies. </h2>
 
 ###
 
-###
-
-###
-
-Recent technology learnt:
-![1_MmlUmaa0oRxkQXzrKghdMQ](https://github.com/user-attachments/assets/9aba782a-1fcf-4ca5-b740-225a074b1f36)
-
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
 </div>
-
-
-
- <a
-    href="https://www.w3.org/Style/CSS/Overview.en.html/"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"
-      alt="css3"
-      width="28"
-      height="40"
-    />
-  </a>
