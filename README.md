@@ -9,7 +9,7 @@
 
 ## 📝 About Me
 
-I am a **Java Full Stack Developer**, **Web Designer**, and **UI/UX Designer** **Cloud developer** with a strong foundation in web development, cloud services, and design. My expertise lies in creating dynamic, responsive webpages and user interfaces that provide an excellent user experience.
+I am a **Java Full Stack Developer**, **Web Designer**, and **UI/UX Designer**, **Cloud developer** with a strong foundation in web development, cloud services, and design. My expertise lies in creating dynamic, responsive webpages and user interfaces that provide an excellent user experience.
 
 ---
 
